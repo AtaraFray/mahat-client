@@ -22,7 +22,7 @@ export const Menu = () => {
     return (
         <div>
             <div className="card">
-                <TabMenu model={items} />
+                <TabMenu model={items}/>
             </div>
         </div>
     );
